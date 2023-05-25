@@ -6,5 +6,5 @@ Pair project.
 
 Authors: Aleksandra Wlazło, Jakub Kowalczyk.
 
-##Technologies used:
+## Technologies used:
 Java, SpringBoot, Hibernate, JPA, JSP, Junit, Mockito
